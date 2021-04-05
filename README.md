@@ -1,1 +1,1 @@
-# devops_assignment_Group52.github.io
+# devops_assignment.github.io
